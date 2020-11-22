@@ -1,0 +1,10 @@
+.nav_elements{
+    display: flex;
+    list-style: none;
+}
+.nav_elements a{
+    text-decoration: none;
+}
+.nav_elements li {
+    margin: 20px 50px;
+}
